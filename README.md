@@ -1,0 +1,1 @@
+This repo is just to learn how to creat command-line application with NodeJS. [Here](https://www.digitalocean.com/community/tutorials/how-to-build-command-line-applications-with-node-js) is the blog where you can also learn about this topic.
