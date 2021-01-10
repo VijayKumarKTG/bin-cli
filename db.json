@@ -1,0 +1,16 @@
+{
+  "todos": [
+    {
+      "title": "abc",
+      "complete": true
+    },
+    {
+      "title": "def",
+      "complete": false
+    },
+    {
+      "title": "ghi",
+      "complete": false
+    }
+  ]
+}
